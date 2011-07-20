@@ -1,0 +1,695 @@
+BEGIN:VCALENDAR
+PRODID:-//CERN//INDICO//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-24@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=24&amp;sessionId=20&amp;confId=0"
+DTSTART:20101021T133000Z
+DTEND:20101021T141500Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=24&amp;sessionId=20&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Dürer)
+SUMMARY:Distributions with SUSE Studio/Gallery
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-25@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=25&amp;sessionId=20&amp;confId=0"
+DTSTART:20101021T141500Z
+DTEND:20101021T150000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=25&amp;sessionId=20&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Dürer)
+SUMMARY:User Experience from the bottom to the top
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-26@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=26&amp;sessionId=21&amp;confId=0"
+DTSTART:20101022T091500Z
+DTEND:20101022T100000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=26&amp;sessionId=21&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Sigena)
+SUMMARY:Samba 3+4=7?
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-27@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=27&amp;sessionId=21&amp;confId=0"
+DTSTART:20101022T083000Z
+DTEND:20101022T091500Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=27&amp;sessionId=21&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Sigena)
+SUMMARY:Staying alive: Setup and management of an iSCSI HA virtualization cluster
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-20@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=20&amp;sessionId=20&amp;confId=0"
+DTSTART:20101021T083000Z
+DTEND:20101021T091500Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=20&amp;sessionId=20&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Dürer)
+SUMMARY:Making of the openSUSE Distribution
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-22@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=22&amp;sessionId=20&amp;confId=0"
+DTSTART:20101021T091500Z
+DTEND:20101021T100000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=22&amp;sessionId=20&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Dürer)
+SUMMARY:Introduction of the new openSUSE Strategy
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-23@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=23&amp;sessionId=20&amp;confId=0"
+DTSTART:20101021T121500Z
+DTEND:20101021T130000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=23&amp;sessionId=20&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Dürer)
+SUMMARY:Debian - The Project and its Resources
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-28@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=28&amp;sessionId=21&amp;confId=0"
+DTSTART:20101022T113000Z
+DTEND:20101022T121500Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=28&amp;sessionId=21&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Sigena)
+SUMMARY:Monitoring with Icinga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-29@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=29&amp;sessionId=21&amp;confId=0"
+DTSTART:20101022T133000Z
+DTEND:20101022T141500Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=29&amp;sessionId=21&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Sigena)
+SUMMARY:Manage IT Infrastructure with the LAX Framework
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-0@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=0&amp;sessionId=18&amp;confId=0"
+DTSTART:20101020T083000Z
+DTEND:20101020T091500Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=0&amp;sessionId=18&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Dürer)
+SUMMARY:Easy multi-distribution package builds with the build service
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-4@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=4&amp;sessionId=18&amp;confId=0"
+DTSTART:20101020T091500Z
+DTEND:20101020T100000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=4&amp;sessionId=18&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Dürer)
+SUMMARY:Tracking Latest Upstream
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-51@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=51&amp;sessionId=30&amp;confId=0"
+DTSTART:20101023T070000Z
+DTEND:20101023T090000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=51&amp;sessionId=30&amp;confId=0"]
+LOCATION:Nürnberg, Germany
+SUMMARY:LPI Exams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-88@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=88&amp;sessionId=28&amp;confId=0"
+DTSTART:20101022T141500Z
+DTEND:20101022T150000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=88&amp;sessionId=28&amp;confId=0"]
+LOCATION:Nürnberg, Germany
+SUMMARY:LibreOffice Easy Hacks
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-89@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=89&amp;sessionId=29&amp;confId=0"
+DTSTART:20101023T133000Z
+DTEND:20101023T141500Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=89&amp;sessionId=29&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Sachs)
+SUMMARY:Erfahrungen aus der Praxis, Das  Schulnetzwerk am Gymnasium Weiz in  Austria
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-82@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=82&amp;sessionId=29&amp;confId=0"
+DTSTART:20101023T083000Z
+DTEND:20101023T100000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=82&amp;sessionId=29&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Sachs)
+SUMMARY:Client  imaging / Terminal Server
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-83@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=83&amp;sessionId=29&amp;confId=0"
+DTSTART:20101023T113000Z
+DTEND:20101023T130000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=83&amp;sessionId=29&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Sachs)
+SUMMARY:Alternative School Servers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-80@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=80&amp;sessionId=28&amp;confId=0"
+DTSTART:20101022T091500Z
+DTEND:20101022T100000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=80&amp;sessionId=28&amp;confId=0"]
+LOCATION:Nürnberg, Germany
+SUMMARY:LibreOffice Next Steps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-81@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=81&amp;sessionId=28&amp;confId=0"
+DTSTART:20101022T120000Z
+DTEND:20101022T123000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=81&amp;sessionId=28&amp;confId=0"]
+LOCATION:Nürnberg, Germany
+SUMMARY:GSoC project: Improving RTF Export
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-86@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=86&amp;sessionId=28&amp;confId=0"
+DTSTART:20101022T123000Z
+DTEND:20101022T130000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=86&amp;sessionId=28&amp;confId=0"]
+LOCATION:Nürnberg, Germany
+SUMMARY:GSoC project: Improvement of OOo Math
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-87@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=87&amp;sessionId=28&amp;confId=0"
+DTSTART:20101022T133000Z
+DTEND:20101022T141500Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=87&amp;sessionId=28&amp;confId=0"]
+LOCATION:Nürnberg, Germany
+SUMMARY:Building LibreOffice
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-84@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=84&amp;sessionId=29&amp;confId=0"
+DTSTART:20101023T141500Z
+DTEND:20101023T150000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=84&amp;sessionId=29&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Sachs)
+SUMMARY:Groupware in use at schools
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-85@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=85&amp;sessionId=28&amp;confId=0"
+DTSTART:20101022T113000Z
+DTEND:20101022T120000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=85&amp;sessionId=28&amp;confId=0"]
+LOCATION:Nürnberg, Germany
+SUMMARY:GSoC @ GoOO
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-3@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=3&amp;sessionId=18&amp;confId=0"
+DTSTART:20101020T113000Z
+DTEND:20101020T121500Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=3&amp;sessionId=18&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Dürer)
+SUMMARY:Maintenance made easy with OBS
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-7@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=7&amp;sessionId=19&amp;confId=0"
+DTSTART:20101020T083000Z
+DTEND:20101020T091500Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=7&amp;sessionId=19&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Sigena)
+SUMMARY:How automated testing can help improve a distribution
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-39@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=39&amp;sessionId=25&amp;confId=0"
+DTSTART:20101023T091500Z
+DTEND:20101023T100000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=39&amp;sessionId=25&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Dürer)
+SUMMARY:How to cook your own open source event
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-38@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=38&amp;sessionId=25&amp;confId=0"
+DTSTART:20101023T083000Z
+DTEND:20101023T091500Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=38&amp;sessionId=25&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Dürer)
+SUMMARY:openSUSE Kernel Statistics
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-33@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=33&amp;sessionId=22&amp;confId=0"
+DTSTART:20101022T121500Z
+DTEND:20101022T130000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=33&amp;sessionId=22&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Dürer)
+SUMMARY:How the Mozilla Project is organized
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-32@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=32&amp;sessionId=22&amp;confId=0"
+DTSTART:20101022T083000Z
+DTEND:20101022T091500Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=32&amp;sessionId=22&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Dürer)
+SUMMARY:The SUSE Security Team - Taking care of openSUSE Security
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-31@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=31&amp;sessionId=21&amp;confId=0"
+DTSTART:20101022T141500Z
+DTEND:20101022T150000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=31&amp;sessionId=21&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Sigena)
+SUMMARY:Resource Management in Linux with Control Groups
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-30@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=30&amp;sessionId=21&amp;confId=0"
+DTSTART:20101022T121500Z
+DTEND:20101022T130000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=30&amp;sessionId=21&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Sigena)
+SUMMARY:Invis Server
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-37@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=37&amp;sessionId=22&amp;confId=0"
+DTSTART:20101022T141500Z
+DTEND:20101022T143500Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=37&amp;sessionId=22&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Dürer)
+SUMMARY:Using OBS for automated & dependable builds of Windows binaries & creation of installers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-36@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=36&amp;sessionId=22&amp;confId=0"
+DTSTART:20101022T091500Z
+DTEND:20101022T100000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=36&amp;sessionId=22&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Dürer)
+SUMMARY:Lift off! Boosting Explained
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-35@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=35&amp;sessionId=22&amp;confId=0"
+DTSTART:20101022T133000Z
+DTEND:20101022T141500Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=35&amp;sessionId=22&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Dürer)
+SUMMARY:ownCloud.org - cloud services under your control
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-34@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=34&amp;sessionId=22&amp;confId=0"
+DTSTART:20101022T113000Z
+DTEND:20101022T121500Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=34&amp;sessionId=22&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Dürer)
+SUMMARY:The 7 principles of successful open source Communities
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-2@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=2&amp;sessionId=18&amp;confId=0"
+DTSTART:20101020T121500Z
+DTEND:20101020T130000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=2&amp;sessionId=18&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Dürer)
+SUMMARY:More openSUSE at Home and in the Office
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-6@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=6&amp;sessionId=18&amp;confId=0"
+DTSTART:20101020T133000Z
+DTEND:20101020T141500Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=6&amp;sessionId=18&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Dürer)
+SUMMARY:Effective Packaging
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-91@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=91&amp;sessionId=17&amp;confId=0"
+DTSTART:20101022T093000Z
+DTEND:20101022T101500Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=91&amp;sessionId=17&amp;confId=0"]
+LOCATION:Nürnberg, Germany
+SUMMARY:openSUSE & Novell - a unlike couple
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-90@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=90&amp;confId=0"
+DTSTART:20101022T150000Z
+DTEND:20101022T170000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=90&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Dürer)
+SUMMARY:Key signing party
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-93@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=93&amp;confId=0"
+DTSTART:20101021T073000Z
+DTEND:20101021T081500Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=93&amp;confId=0"]
+LOCATION:Nürnberg, Germany
+SUMMARY:Keynote: The desktop and the cloud - thoughts about freedom
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-92@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=92&amp;confId=0"
+DTSTART:20101020T170000Z
+DTEND:20101020T190000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=92&amp;confId=0"]
+LOCATION:Nürnberg, Germany
+SUMMARY:What is a open movie? Movie Night
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-95@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=95&amp;sessionId=26&amp;confId=0"
+DTSTART:20101023T091500Z
+DTEND:20101023T100000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=95&amp;sessionId=26&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Sigena)
+SUMMARY:Zarafa and High Availability on SUSE Linux Enterprise Server
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-94@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=94&amp;confId=0"
+DTSTART:20101023T073000Z
+DTEND:20101023T081500Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=94&amp;confId=0"]
+LOCATION:Nürnberg, Germany
+SUMMARY:Keynote: From the developer to the user and back
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-11@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=11&amp;sessionId=19&amp;confId=0"
+DTSTART:20101020T121500Z
+DTEND:20101020T130000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=11&amp;sessionId=19&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Sigena)
+SUMMARY:Internationalization of applications
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-10@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=10&amp;sessionId=19&amp;confId=0"
+DTSTART:20101020T113000Z
+DTEND:20101020T121500Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=10&amp;sessionId=19&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Sigena)
+SUMMARY:WebYaST
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-13@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=13&amp;sessionId=19&amp;confId=0"
+DTSTART:20101020T141500Z
+DTEND:20101020T150000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=13&amp;sessionId=19&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Sigena)
+SUMMARY:Testopia, the Bugzilla add-on to get openSUSE tested
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-12@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=12&amp;sessionId=19&amp;confId=0"
+DTSTART:20101020T133000Z
+DTEND:20101020T141500Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=12&amp;sessionId=19&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Sigena)
+SUMMARY:Changing Paradigms of the Graphics Driver Stack
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-15@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=15&amp;sessionId=2&amp;confId=0"
+DTSTART:20101021T091500Z
+DTEND:20101021T100000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=15&amp;sessionId=2&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Sigena)
+SUMMARY:Explaining GNOME 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-14@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=14&amp;sessionId=2&amp;confId=0"
+DTSTART:20101021T083000Z
+DTEND:20101021T091500Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=14&amp;sessionId=2&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Sigena)
+SUMMARY:Key KDE Features in openSUSE 11.4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-17@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=17&amp;sessionId=2&amp;confId=0"
+DTSTART:20101021T121500Z
+DTEND:20101021T130000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=17&amp;sessionId=2&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Sigena)
+SUMMARY:Marble - A virtual globe for people
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-16@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=16&amp;sessionId=2&amp;confId=0"
+DTSTART:20101021T113000Z
+DTEND:20101021T121500Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=16&amp;sessionId=2&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Sigena)
+SUMMARY:Status and Overview of PulseAudio & friends
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-19@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=19&amp;sessionId=2&amp;confId=0"
+DTSTART:20101021T141500Z
+DTEND:20101021T150000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=19&amp;sessionId=2&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Sigena)
+SUMMARY:KDE re-branding explained
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-18@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=18&amp;sessionId=2&amp;confId=0"
+DTSTART:20101021T133000Z
+DTEND:20101021T141500Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=18&amp;sessionId=2&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Sigena)
+SUMMARY:Making the intangible a bit less
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-48@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=48&amp;sessionId=26&amp;confId=0"
+DTSTART:20101023T133000Z
+DTEND:20101023T141500Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=48&amp;sessionId=26&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Sigena)
+SUMMARY:simon: Open Speech Recognition
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-49@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=49&amp;sessionId=26&amp;confId=0"
+DTSTART:20101023T150000Z
+DTEND:20101023T154500Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=49&amp;sessionId=26&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Sigena)
+SUMMARY:Wine is not (only) an emulator
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-46@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=46&amp;sessionId=26&amp;confId=0"
+DTSTART:20101023T113000Z
+DTEND:20101023T121500Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=46&amp;sessionId=26&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Sigena)
+SUMMARY:Perl6 – Perl5's spunky little sister
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-47@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=47&amp;sessionId=26&amp;confId=0"
+DTSTART:20101023T121500Z
+DTEND:20101023T130000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=47&amp;sessionId=26&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Sigena)
+SUMMARY:Maria DB
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-44@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=44&amp;sessionId=26&amp;confId=0"
+DTSTART:20101023T083000Z
+DTEND:20101023T091500Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=44&amp;sessionId=26&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Sigena)
+SUMMARY:x2go
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-42@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=42&amp;sessionId=25&amp;confId=0"
+DTSTART:20101023T133000Z
+DTEND:20101023T141500Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=42&amp;sessionId=25&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Dürer)
+SUMMARY:Less is more. Crowdsourcing the openSUSE Media
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-43@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=43&amp;sessionId=25&amp;confId=0"
+DTSTART:20101023T141500Z
+DTEND:20101023T150000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=43&amp;sessionId=25&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Dürer)
+SUMMARY:A New Software Developer Career
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-40@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=40&amp;sessionId=25&amp;confId=0"
+DTSTART:20101023T113000Z
+DTEND:20101023T121500Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=40&amp;sessionId=25&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Dürer)
+SUMMARY:openSUSE Connect
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-41@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=41&amp;sessionId=25&amp;confId=0"
+DTSTART:20101023T121500Z
+DTEND:20101023T130000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=41&amp;sessionId=25&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Dürer)
+SUMMARY:Concept of Marketing and the its usage by FOSS Communities
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-1@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=1&amp;confId=0"
+DTSTART:20101020T073000Z
+DTEND:20101020T081500Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=1&amp;confId=0"]
+LOCATION:Nürnberg, Germany
+SUMMARY:Get your Ass up!
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-5@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=5&amp;sessionId=18&amp;confId=0"
+DTSTART:20101020T141500Z
+DTEND:20101020T150000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=5&amp;sessionId=18&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Dürer)
+SUMMARY:Spreading applications as Live CDs using OBS & SUSE Studio
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-9@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=9&amp;sessionId=19&amp;confId=0"
+DTSTART:20101020T091500Z
+DTEND:20101020T100000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=9&amp;sessionId=19&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Sigena)
+SUMMARY:MeeGo / Netbook
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-77@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=77&amp;sessionId=36&amp;confId=0"
+DTSTART:20101021T170000Z
+DTEND:20101021T215900Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=77&amp;sessionId=36&amp;confId=0"]
+LOCATION:Nürnberg, Germany
+SUMMARY:openSUSE Conference Party
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-76@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=76&amp;sessionId=18&amp;confId=0"
+DTSTART:20101020T150000Z
+DTEND:20101020T163000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=76&amp;sessionId=18&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Dürer)
+SUMMARY:Alice in Wonderland - virtualizing openSUSE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-74@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=74&amp;sessionId=35&amp;confId=0"
+DTSTART:20101022T191500Z
+DTEND:20101022T214500Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=74&amp;sessionId=35&amp;confId=0"]
+LOCATION:Nürnberg, Germany (KommKino)
+SUMMARY:Open Movie Night
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-79@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=79&amp;sessionId=28&amp;confId=0"
+DTSTART:20101022T083000Z
+DTEND:20101022T091500Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=79&amp;sessionId=28&amp;confId=0"]
+LOCATION:Nürnberg, Germany
+SUMMARY:The Document Foundation
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20110720T140715Z
+UID:indico-0-78@cern.ch
+URL;VALUE=URI:"http://conference.opensuse.org/indico//contributionDisplay.py?contribId=78&amp;sessionId=19&amp;confId=0"
+DTSTART:20101020T150000Z
+DTEND:20101020T160000Z
+DESCRIPTION:["http://conference.opensuse.org/indico//contributionDisplay.py?contribId=78&amp;sessionId=19&amp;confId=0"]
+LOCATION:Nürnberg, Germany (Sigena)
+SUMMARY:Kolab - Groupware unlike others
+END:VEVENT
+END:VCALENDAR

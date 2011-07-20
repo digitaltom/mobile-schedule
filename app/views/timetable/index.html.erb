@@ -1,0 +1,51 @@
+
+<div data-role="page" id="main">
+  <div data-role="header">
+    <h1>openSUSE Conference 2011</h1>
+  </div>
+
+  <div data-role="content">
+    <ul data-role="listview">
+      <li>
+        <a href="#dates">Dates</a>
+        <span class="ui-li-count"><%= @dates.size %></span>
+      </li>
+      <li>
+        <a href="#rooms">Rooms</a>
+        <span class="ui-li-count"><%= @locations.size %></span>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+<div data-role="page" id="rooms">
+  <div data-role="header">
+    <h1>openSUSE Conference 2011 Rooms</h1>
+  </div>
+  <div data-role="content">
+    <ul data-role="listview">
+      <% @locations.each do |location| %>
+      <li>
+        <a href="#location-<%= location %>"><%= location %></a>
+      </li>
+      <% end %>
+    </ul>
+  </div>
+</div>
+
+
+<div data-role="page" id="dates">
+  <div data-role="header">
+    <h1>openSUSE Conference 2011 Days</h1>
+  </div>
+  <div data-role="content">
+    <ul data-role="listview">
+      <% @dates.each do |date| %>
+      <li>
+        <a href="#date-<%= date %>"><%= date %></a>
+      </li>
+      <% end %>
+    </ul>
+  </div>
+</div>
